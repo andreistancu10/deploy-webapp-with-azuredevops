@@ -36,7 +36,7 @@ Step 2: Build webapplication using Azure CI Pipeline
 
 ![image](https://user-images.githubusercontent.com/44494776/152773044-ee7278da-9ca9-43c3-a450-afa70ed61024.png)
 
-3. In addition to the application build, we need to publish terraform files to build artifacts so that it will be available in CD pipeline. So we have added Copy files task to copy Terraform file to Artifacts directory.
+3. In addition to the application build, I need to publish terraform files to build artifacts so that it will be available in CD pipeline. So we have added Copy files task to copy Terraform file to Artifacts directory.
 
 
 ![image](https://user-images.githubusercontent.com/44494776/152774371-d5d2c0bd-3c82-4336-b8a6-21b527a74192.png)
