@@ -29,6 +29,7 @@ https://marketplace.visualstudio.com/search?term=terraform&target=AzureDevOps&ca
 
 
 Step 2: Build webapplication using Azure CI Pipeline
+
 1. Navigate to Pipelines –> Pipelines -> New Pipeline -> Other Git repo -> ![image](https://user-images.githubusercontent.com/44494776/152773337-91562bc4-63ef-4be0-97f3-93c9799f6cc5.png)
 
 
@@ -40,6 +41,21 @@ Step 2: Build webapplication using Azure CI Pipeline
 
 
 ![image](https://user-images.githubusercontent.com/44494776/152774371-d5d2c0bd-3c82-4336-b8a6-21b527a74192.png)
+
+
+
+STEP 3:  Deploy application and azure resources with Terraform using Azure CD pipeline
+
+Navigate to Pipelines -> Releases -> Create Release
+
+1. Create a new release using artifact from STEP 2
+
+![image](https://user-images.githubusercontent.com/44494776/152809927-e9aa8b96-5a4e-47d0-8c52-5adf856e816c.png)
+
+2. Create tasks for CD pipeline:
+
+![image](https://user-images.githubusercontent.com/44494776/152810199-c7450963-e897-4f9a-ac1f-096bed27bbcb.png)
+
 
 
 
