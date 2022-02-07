@@ -15,3 +15,6 @@ https://marketplace.visualstudio.com/search?term=terraform&target=AzureDevOps&ca
 
 ![image](https://user-images.githubusercontent.com/44494776/152760184-b0b57b98-d4e3-40d6-83ce-5946d2625ef2.png)
 
+
+
+Step 2: Build webapplication using Azure CI Pipeline
