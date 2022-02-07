@@ -5,10 +5,10 @@ Demo Deploy ASP.NET webapplication using Azure DevOps and Terraform for provisio
 
 STEP 1: Prepare Azure DevOps
 
-Sign into Azure DevOps
-Select organisation that you have created above
-Select New Project
-Enter new project name & description
+1. Sign into Azure DevOps
+2. Select organisation that you have created above
+3. Select New Project
+4. Enter new project name & description
 
 From marketplace add azuredevops extenstions: Terraform and Replace tokens
 https://marketplace.visualstudio.com/search?term=terraform&target=AzureDevOps&category=All%20categories&sortBy=Relevance
