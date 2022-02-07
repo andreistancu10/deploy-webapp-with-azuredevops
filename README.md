@@ -13,8 +13,9 @@ STEP 1: Prepare Azure DevOps
 https://marketplace.visualstudio.com/search?term=terraform&target=AzureDevOps&category=All%20categories&sortBy=Relevance
 
 
-![image](https://user-images.githubusercontent.com/44494776/152760184-b0b57b98-d4e3-40d6-83ce-5946d2625ef2.png)
 
+
+![image](https://user-images.githubusercontent.com/44494776/152761027-956d9205-8de8-4605-82cb-f0cab0474360.png)
 
 
 
