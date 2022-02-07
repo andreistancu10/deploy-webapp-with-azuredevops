@@ -29,3 +29,10 @@ https://marketplace.visualstudio.com/search?term=terraform&target=AzureDevOps&ca
 
 
 Step 2: Build webapplication using Azure CI Pipeline
+1. Navigate to Pipelines –> Pipelines -> New Pipeline -> Other Git repo -> ![image](https://user-images.githubusercontent.com/44494776/152773337-91562bc4-63ef-4be0-97f3-93c9799f6cc5.png)
+
+
+![image](https://user-images.githubusercontent.com/44494776/152773044-ee7278da-9ca9-43c3-a450-afa70ed61024.png)
+
+
+
