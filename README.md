@@ -1,5 +1,7 @@
 # deploy-webapp-with-azuredevops
 Demo Deploy ASP.NET webapplication using Azure DevOps and Terraform for provisioning Azure infrastructure
+
+The following image will walk you through all the steps explained in this project
 ![image](https://user-images.githubusercontent.com/44494776/152757898-08b0c943-6a9e-4197-899c-b1e1bc456e12.png)
 
 
